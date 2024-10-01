@@ -1,12 +1,11 @@
 # ⚡ BengalBoot - Arch-based Lightweight and Customizable Linux Distribution
 
-
 ## 🔥 Celebrating 3 Years of BengalBoot (2021 - 2024)
 BengalBoot turns 3 years old on **28 September 2024**! To mark this milestone, we're proud to present our **3rd release**, packed with new features, optimizations, and enhancements. Whether you're a beginner or an advanced user, BengalBoot is here to provide a **lightweight**, **customizable**, and **powerful** Arch-based experience.
 
 ## ⏩ About BengalBoot
 
-BengalBoot is an **open-source Linux distribution** based on Arch Linux, designed to be lightweight and highly customizable. Whether you have an old PC or a powerful setup, BengalBoot delivers great performance and offers extensive customization, perfect for users of all levels. 
+BengalBoot is an **open-source Linux distribution** based on Arch Linux, designed to be lightweight and highly customizable. Whether you have an old PC or a powerful setup, BengalBoot delivers great performance and offers extensive customization, perfect for users of all levels.
 
 With features ranging from gaming support to programming and pentesting, BengalBoot is versatile and ready for anything. Our community-driven development ensures continuous improvements with every release.
 
@@ -28,7 +27,9 @@ Take your gaming to the next level with BengalBoot’s performance-optimized set
 BengalBoot releases two ISOs annually. Stay updated with the latest features by manually updating or reinstalling with each new release.
 
 ### 6. **Open Source** 🛡️
-Licensed under the **GPL**. BengalBoot is free, encouraging collaboration and transparency.
+Licensed under **dual terms**:
+- **Code Contributions**: Licensed under the [GNU General Public License v3 (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.html), allowing for open collaboration while reserving the right to keep certain code private.
+- **Artwork Contributions**: Licensed under the [Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/), allowing for sharing and adaptation with proper attribution.
 
 ## 📥 Installation
 
@@ -71,10 +72,12 @@ We welcome contributions from the open-source community! Whether you're a develo
 - **Fork & Pull Requests**: Feel free to fork the repository, make improvements, and submit pull requests.
 - **Join Discussions**: Participate in our forum or GitHub Discussions to share feedback and ideas.
 
+Check our [CONTRIBUTING Guidelines](https://github.com/BCW52/BengalBoot-Public-Repo/blob/main/CONTRIBUTING.md) for more.
+
 ## 👥 Community & Support
 
 - **Forum**: [Project Bengal](https://forum.projectbengal.com/)
-- **Discord**: Join our community for real-time support.
+- **Discord**: Join our community for real-time support (Upcoming!)
 - **Facebook**: [Project Bengal](https://www.facebook.com/theprojectbengal)
 - **Contributors**: We thank all our contributors and community members for their support over the last 3 years.
 
@@ -82,11 +85,15 @@ We welcome contributions from the open-source community! Whether you're a develo
 
 ## 📝 License
 
-BengalBoot is licensed under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). Contributions and forks are welcome!
+BengalBoot is dual-licensed:
+- **Code Contributions**: [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
+- **Artwork Contributions**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+Check our [License](https://github.com/BCW52/BengalBoot-Public-Repo/blob/main/License.md) for more.
+
+Contributions and forks are welcome!
 
 ---
 
 Made with ❤️ by the Project Bengal  
 © 2021-2024 BengalBoot, All rights reserved
-
---- 
